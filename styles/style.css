@@ -151,23 +151,24 @@ nav a {
 }
 
 .white-logo {
-    position: absolute;
-    max-width: 20%;
-    height: 20%;
-    display: flex;
-    left: 40%;
- 
+    max-width: auto;
+    height: 10%;
+    margin-top: 400px;
+    float: left;
 }
 
+
 .screenshot-section {
-    padding-top: 80px;
-
-
+    display: flex;
+    justify-content:center;
+    margin-left: 50px;
 }
 
 .screenshot {
-    max-width: 65%;
-    height:auto;
+    width: 50%;
+    height: 70%;
+    padding-top: 80px;
+    padding-left: 60px;
 }
 
 
